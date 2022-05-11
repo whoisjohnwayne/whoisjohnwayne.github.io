@@ -1,0 +1,12 @@
+# Jobs
+# VP of Global Communications
+- company: CognitiveScale, Inc.
+  position: Senior Technical Writer
+  duration: January 2019 &mdash; June 2019
+  summary: <ul class="resume-item-list"><li>Embedded deeply within the engineering team to document new features for an AI development platform as they were implemented</li><li>Collaborated with DevOps and QA to write instructions for deploying private and hybrid cloud instances of our software</li><li>Led updates to and user acceptance testing of information architecture redesign</li><li>Responsible for prioritizing content updates using data from Google Analytics</li><li>Created Go templates with Hugo to automatically generate reference documentation from JSON files</li><li>Improved documentation build pipelines by adding broken link checking</li><li>Assisted engineering team lead with scrum master duties</li></ul>
+
+# Oracle
+- company: Oracle America, Inc.
+  position: Principal User Assistance Developer
+  duration:  January 2012 &mdash; December 2018
+  summary: <ul class="resume-item-list"><li>Led documentation projects for on-premises and cloud (PaaS) integration and API management enterprise software</li><li>Worked closely with globally distributed engineers and product managers to create administrator, developer, and end-user content in addition to REST API references, UI text, tutorials, and in-depth solutions</li><li>Mentored peers on REST API and tutorial content development</li><li>Managed team environments, automating builds using Postman collections and custom JavaScript</li><li>Developed team processes on REST API content development and publishing content as part of a continuous delivery process</li></ul>

@@ -1,0 +1,18 @@
+# Jobs
+# VP of Global Communications
+
+- company: MongoDB
+  position: Acting Lead Technical Writer, Cloud
+  duration: September 2019 &mdash; present
+  summary: <ul class="resume-item-list"><li>Set priorities, reviewed work, provided career growth guidance, and managed projects for three direct reports</li><li>Wrote documentation for MongoDB products, including MongoDB Atlas, the MongoDB Enterprise Kubernetes Operator, and the database server</li><li>Used Terraform and Ansible to script the deployment of a disposable MongoDB Ops Manager instance for the docs team</li><li>Wrote Python script to scrape live MongoDB Atlas REST API documentation to facilitate OpenAPI annotations</li><li>Annotated Java web services using swagger-core to generate REST API reference at build time</li><li>Interviewed candidates and mentored new hires and other teammates</li></ul>
+
+- company: CognitiveScale, Inc.
+  position: Senior Technical Writer
+  duration: January 2019 &mdash; June 2019
+  summary: <ul class="resume-item-list"><li>Embedded within the engineering team to document new features for an AI development platform</li><li>Collaborated with DevOps and QA to write instructions for deploying to private and hybrid clouds</li><li>Led user acceptance testing of information architecture redesign</li><li>Prioritized content updates using data from Google Analytics</li><li>Created Go templates with Hugo to automatically generate reference documentation at build time</li><li>Improved build pipelines by adding broken link checking</li><li>Assisted team lead with scrum master duties</li></ul>
+
+# Oracle
+- company: Oracle America, Inc.
+  position: Principal User Assistance Developer
+  duration:  January 2012 &mdash; December 2018
+  summary: <ul class="resume-item-list"><li>Led documentation projects for on-premises and cloud (PaaS) integration and API management enterprise software</li><li>Developed hands-on lab materials for beta and customer events</li><li>Mentored peers on REST API and tutorial content development</li><li>Managed team environments, automating builds using Postman collections and custom JavaScript</li><li>Developed team processes on REST API content development and publishing content as part of a continuous delivery process</li></ul>
